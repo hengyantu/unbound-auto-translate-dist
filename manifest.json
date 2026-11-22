@@ -24,14 +24,13 @@
 			"id": "263689920210534400"
 		}
 	],
-	"version": "1.3.0-auto.2",
+	"version": "1.3.0-auto.1",
 	"unbound": {
 		"min": "3.0.0"
 	},
 	"icon": "LanguageIcon",
 	"main": "index.js",
 	"startAfterFirstFrame": true,
-	"minNativeBridgeApi": "1.0.0",
 	"locales": {
 		"bg": "bf727fb5a751d8d1b19e21dce95233b8fd38770d7527ea674f6da15c44b96abb",
 		"cs": "8135f24bde57dd7a4b61f5c6d1894f066d2a1cd96e73e39ea26d515c35f2e95a",
